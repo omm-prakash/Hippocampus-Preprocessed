@@ -1,7 +1,8 @@
 # Hippocampus-Preprocessed
 
-> Dataset used: Dryad
 The focus of this task is more on code implementation than results. 
+
+> Dataset used: Dryad
 
 Files
 1. **data_generator.py**: Declaration of custom data generator.
@@ -12,7 +13,7 @@ Files
 
 Steps 
 1. Clone the repository.
-2. Add Drayad folder into the cloned local folder.
+2. Add `Drayad` folder to the cloned local folder.
 3. Download anaconda
 4. Run
    ```bash
