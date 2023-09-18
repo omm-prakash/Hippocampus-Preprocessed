@@ -1,6 +1,7 @@
 # Hippocampus-Preprocessed
 
 > Dataset used: Dryad
+The focus of this task is more on code implementation than results. 
 
 Files
 1. **data_generator.py**: Declaration of custom data generator.
